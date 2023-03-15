@@ -3,5 +3,5 @@
     "project-repository": "https://github.com/Med-Dash/Med-Dash.github.io",
     "dockerhub-repository": "ucsdets/datahub-base-notebook:latest",
     "project-website-url": "https://med-dash.github.io/",
-    "project-website-code": "https://github.com/Med-Dash.github.io"
+    "project-website-code": "https://github.com/Med-Dash/Med-Dash.github.io"
 }
